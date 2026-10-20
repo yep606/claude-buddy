@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Files the bridge and installer create on your PC
+bridge/bridge.log*
+bridge/Pause buddy for upload.cmd
+
+# Build output (the firmware .bin is attached to GitHub Releases instead)
+dist/
+build/
